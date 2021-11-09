@@ -1,0 +1,3 @@
+Bundle-Name: liferay-custom-jsp-bag-override
+Bundle-SymbolicName: com.chberndt.liferay.custom.jsp.bag.override
+Bundle-Version: 1.0.0
